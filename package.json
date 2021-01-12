@@ -1,0 +1,23 @@
+{
+  "name": "bases-node",
+  "version": "1.0.0",
+  "description": "Crear Tablas de Multiplicar.",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos-ssh/Node-PG.git"
+  },
+  "author": "Carlos-SSH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlos-ssh/Node-PG/issues"
+  },
+  "homepage": "https://github.com/carlos-ssh/Node-PG#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
